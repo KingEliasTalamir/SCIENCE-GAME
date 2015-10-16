@@ -11,6 +11,11 @@ help me qwesdfxcv
 <spawn_planes_grassy_(<><32%rarety_(PopularMMos_)_(GamingWithJen)_(DanielAguilar)_(costum)_<>common
 <spawn>@_plains<_boss<_(Angel)_(costom(_spawn_boss)_Elijah_)health)_100
 <armour><_@Daniels><_hut(s)@_plains
-
+cheats
+hell 1
+hell2
+hell3
+heaven
+death world
 
 
