@@ -11,11 +11,6 @@ help me qwesdfxcv
 <spawn_planes_grassy_(<><32%rarety_(PopularMMos_)_(GamingWithJen)_(DanielAguilar)_(costum)_<>common
 <spawn>@_plains<_boss<_(Angel)_(costom(_spawn_boss)_Elijah_)health)_100
 <armour><_@Daniels><_hut(s)@_plains
-cheats
-hell 1
-hell2
-hell3
-heaven
-death world
-
-
+<(spawn_tornado)>.rarety>_.=3.5%>(damage.=50%)<>@plains.=random_spawn
+<(spawn_earthquake)>.rarety>_.=9.6%>(magnitude.=9.9)<>break@mountain
+<(Generate_heaven)>.@height.world.=z>(63.00).rarety.=common/<(spawn_angels)>.=health>.=50<><56.67%.=rarety
