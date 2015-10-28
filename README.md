@@ -12,3 +12,4 @@ help me qwesdfxcv
 <spawn>@_plains<_boss<_(Angel)_(costom)(_spawn_boss)(Gzilla?costumized?>,=.:skin/:health)_100
 <armour><_@Daniels><_hut(s)@_plains
 <tornado><@_plains?>.(damage).(range)_>50%
+<spawn>boss<name>?'Elijah-(crew_)<health>/10<not_actual_boss))_+Mini_)boss<word:>line(s)<"i will poke you",2 5 9001
