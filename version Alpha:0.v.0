@@ -1,4 +1,4 @@
-# SCIENCECRAFT
+# SCIENCE GAME
 version Alpha:0.v.0
 <Genarate_towns_>chance_spawn>_rarity_=12.2%
 <Villagers>spawn>_towns_number_6>(trade_with_=ores>_@34%_rarity
@@ -13,5 +13,5 @@ version Alpha:0.v.0
 <armour><_@Daniels><_hut(s)@_plains
 <tornado><@_plains?>.(damage).(range)_>50%
 <spawn>boss<name>?'Elijah-(crew_)<health>/10<boss))_+Mini_)boss<word:>line(s)<"i will poke you",2 5 9001
-<spawn>boss<name>?'Mrs.Bloyd-(crew_)<health>/100<boss))_+Mini_)boss<word:>line(s)<"i'm gonna make you history",2 5 9001
-<spawn>boss<name>?'Mr."Z"-(crew_)<health>/100<boss))_+Mini_)boss<word:>line(s)<"i'm going to make you wish you had good grades",2 5 9001
+<graphics>101320132230_1302301321013310>title_SCIENCE_GAME>2300132301321012130_15942315135315621
+<generate_dimension>school>player_spawn>x(123),y(345),z(0)>
